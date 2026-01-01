@@ -1,4 +1,4 @@
-![Profile Banner](banner.png)
+![Profile Banner](Banner.png)
 
 
 ## Hi there 👋

@@ -1,3 +1,6 @@
+![Profile Banner](banner.png)
+
+
 ## Hi there 👋
 
 <!--

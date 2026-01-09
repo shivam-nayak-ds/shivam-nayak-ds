@@ -1,4 +1,4 @@
-banner.png
+![logo](https://github.com/shivam-nayak-ds/shivam-nayak-ds/blob/main/Blue%20Beige%20Aesthetic%20Music%20Channel%20YouTube%20Banner.png)
 
 
 

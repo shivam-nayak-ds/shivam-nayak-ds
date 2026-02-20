@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋 I'm Shivam Nayak</h1>
 
 <h3 align="center">
-🚀 Machine Learning Engineer | Python • SQL | End-to-End ML | Remote-Ready
+Machine Learning Engineer | Python • SQL | End-to-End ML Projects
 </h3>
 
 <p align="center">
@@ -16,16 +16,19 @@
   <a href="mailto:shivamnayak296@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
   </a>
+  <a href="https://instagram.com/shivamx_18">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram"/>
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
-💡 I build **end-to-end machine learning systems** — from messy data  
-to **business-ready ML models and APIs**.
+💡 I build **end-to-end machine learning solutions** — from raw, messy data  
+to **clean features, trained models, and meaningful insights**.
 
-🎯 Focused on **ML Engineer / Data roles**, strong fundamentals,  
-clean code, and real-world problem solving.
+🎯 I am a **fresher actively looking for ML / Data roles**, with strong fundamentals,  
+hands-on projects, and a clear understanding of **real-world ML workflows**.
 
 ---
 
@@ -54,14 +57,7 @@ Insight-driven exploratory analysis with business recommendations
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam-nayak-ds&theme=gruvbox&row=1&column=6"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivam-nayak-ds&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-nayak-ds&layout=compact&theme=tokyonight" height="165"/>
@@ -75,9 +71,9 @@ Insight-driven exploratory analysis with business recommendations
 
 ## 📌 Current Focus
 - 🔨 Building **production-ready ML projects**
-- 🚀 Strengthening **GitHub + Portfolio**
-- 🎯 Preparing for **remote ML roles**
+- 📊 Strengthening **GitHub & portfolio**
+- 🎯 Preparing for **Machine Learning / Data Science interviews**
 
 ---
 
-💬 *“Code should explain itself. Models should justify themselves.”*
+💬 *“Strong fundamentals + real projects beat fancy buzzwords.”*
